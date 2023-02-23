@@ -1,0 +1,3 @@
+let a = '{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2xsZWN0aW9uSWQiOiJfcGJfdXNlcnNfYXV0aF8iLCJleHAiOjE2Nzc3MzQ1NzIsImlkIjoidXk0aGw3d2M1aGk1c2NwIiwidHlwZSI6ImF1dGhSZWNvcmQifQ.nTaTFRg6X_lsehdyoSLJkmpudXbecc4szdKG_o674h8","model":{"avatar":"","collectionId":"_pb_users_auth_","collectionName":"users","created":"2023-02-16 04:02:21.452Z","email":"winstonchikazhe@gmail.com","emailVisibility":true,"id":"uy4hl7wc5hi5scp","name":"Winston Chikazhe","updated":"2023-02-16 12:23:05.296Z","username":"users89369","verified":true,"expand":{}}}'
+let b = JSON.parse(a)
+console.log(b)
